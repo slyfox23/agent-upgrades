@@ -12,6 +12,8 @@ This repository is structured to work across multiple AI coding environments.
 - `skills/` — reusable task-oriented prompts
 - `integrations/claude-code/` — original, provider-neutral guidance informed by
   public Claude Code workflows; upstream source and licensing are documented
+- `integrations/hackerone-safe/` — authorized bug bounty scope validation,
+  evidence handling, reporting, and submission checks
 
 ## Suggested use
 
